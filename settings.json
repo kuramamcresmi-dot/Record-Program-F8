@@ -1,0 +1,14 @@
+{
+  "clip_before": 15.0,
+  "fps": 60.0,
+  "clip_hotkey": "f8",
+  "auto_start": 0,
+  "clips_dir": "D:/Valo Klipler",
+  "clip_after": 15.0,
+  "match_threshold": 0.72,
+  "hs_cooldown": 3.0,
+  "killfeed_top": 20.0,
+  "killfeed_left": 1350.0,
+  "killfeed_width": 560.0,
+  "killfeed_height": 250.0
+}
